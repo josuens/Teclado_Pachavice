@@ -1,7 +1,7 @@
 {
   "W": [
     { "cat": "Movimiento", "text": "Avanzar." },
-    { "cat": "Vehículo", "text": "Acelerar en vehículo." },
+    { "cat": "Vehículo", "text": "Acelerar en vehículo." }
   ],
   "A": [
     { "cat": "Movimiento", "text": "Mover a la izquierda." },
