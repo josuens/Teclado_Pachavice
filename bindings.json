@@ -1,18 +1,18 @@
 {
   "W": [
     { "cat": "Movimiento", "text": "Avanzar." },
-    { "cat": "Vehículo", "text": "Acelerar en vehículo." }
+    { "cat": "Vehículo", "text": "Acelerar en vehículo." },
   ],
   "A": [
     { "cat": "Movimiento", "text": "Mover a la izquierda." },
-    { "cat": "Vehículo", "text": "Giro a la izquierda." }
+    { "cat": "Vehículo", "text": "Giro a la izquierda." },
   ],
   "S": [
     { "cat": "Movimiento", "text": "Retroceder." },
-    { "cat": "Vehículo", "text": "Frenar / Marcha atrás." }
+    { "cat": "Vehículo", "text": "Frenar / Marcha atrás." },
   ],
   "D": [
     { "cat": "Movimiento", "text": "Mover a la derecha." },
-    { "cat": "Vehículo", "text": "Giro a la derecha." }
+    { "cat": "Vehículo", "text": "Giro a la derecha." },
   ]
 }
