@@ -12,5 +12,4 @@
     { "cat": "Movimiento", "text": "Mover a la derecha." },
     { "cat": "Vehículo", "text": "Giro a la derecha." }
   ]
-  // ...y así con todas las teclas
 }
