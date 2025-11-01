@@ -1,6 +1,8 @@
 {
 
-  
+  "TAB": [
+    { "cat": "Jugabilidad", "text": "Abrir el inventario." },
+  ],
   "W": [
     { "cat": "Movimiento", "text": "Avanzar." },
     { "cat": "Vehículo", "text": "Acelerar en vehículo." },
